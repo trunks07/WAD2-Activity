@@ -20,7 +20,7 @@
 
 ## Delete
   If the students is not anymore existing you can click trhe delete botton
-![Delete](https://github.com/trunks07/WAD2-Activity/blob/master/Activity%20Screen%20Shot/screen1.PNG)
+![Delete](https://github.com/trunks07/WAD2-Activity/blob/master/Activity%20Screen%20Shot/screen4.PNG)
   
   
   
